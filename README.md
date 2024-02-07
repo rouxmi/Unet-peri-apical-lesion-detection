@@ -1,6 +1,11 @@
 # Détection des lésions dentaires
 
-La détection des lésions dentaires utilise Pytorch et [Monai](https://monai.io/). Les données utilisées proviennent de la base de données dentaires du CHR.
+La détection des lésions dentaires utilise Pytorch et [Monai](https://monai.io/). Les données utilisées proviennent de la base de données dentaires du CHR Metz-Thionville.
+
+# Installation
+
+1. Clonez le dépôt sur votre machine locale.
+2. Installez les bibliothèques Python requises en utilisant la commande `pip install -r requirements.txt`.
 
 # Répartition des données
 
